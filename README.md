@@ -1,4 +1,4 @@
-# Search usign ASUSTOR Searchlight
+# Search using ASUSTOR Searchlight
 
 This simple python script allows you to use ASUSTOR Searchlight (part of ADM) to search files on your NAS and get the
 resulting output in JSON.
